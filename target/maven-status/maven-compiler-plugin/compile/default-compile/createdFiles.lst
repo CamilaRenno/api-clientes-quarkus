@@ -1,0 +1,4 @@
+br\com\exemplo\cliente\Cliente.class
+br\com\exemplo\cliente\ClienteResource.class
+br\com\exemplo\HelloResource.class
+META-INF\panache-archive.marker
